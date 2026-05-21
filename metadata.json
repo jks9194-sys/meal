@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "실시간 한국 시간대(Asia/Seoul)를 기준으로 한 오늘의 급식, 주간 급식 식단표 및 영양 성분 계산기 서비스를 제공하는 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
